@@ -1,0 +1,5 @@
+﻿  2048.cpp
+C:\Users\Admin\source\repos\2048\2048\2048.cpp(173,13): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\2048\2048\2048.cpp(174,13): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\2048\2048\2048.cpp(197,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  2048.vcxproj -> C:\Users\Admin\source\repos\2048\x64\Debug\2048.exe
